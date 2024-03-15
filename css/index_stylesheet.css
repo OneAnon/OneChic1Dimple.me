@@ -1,6 +1,7 @@
 @import url(sizing.css);
 @import url(links.css);
 @import url(header_footer.css);
+@import url(clock_stylesheet.css);
 
 div{
     border:2px solid whit; /* for  easy editing purposes, disregard */
