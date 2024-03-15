@@ -1,0 +1,53 @@
+@import url(sizing.css);
+@import url(links.css);
+@import url(header_footer.css);
+
+div{
+    border:2px solid whit; /* for  easy editing purposes, disregard */
+}
+
+img:hover{
+    color:#000000;
+}
+
+
+body{
+    color: rgb(179, 163, 150);
+    font-family: 'Courier New', monospace;
+}
+
+
+h1{
+    color:rgba(231, 199, 139, 0.935);
+}
+
+.content-section{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.card{
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    gap: .5em;
+}
+
+.card-image{
+    height: 200px;
+    width: 300px;
+    border-radius: 45%;
+}
+
+.card-image:hover{
+    opacity: .8;
+}
+
+.card button{
+    width: 35%;
+    font-size:10px;
+    background-color: rgb(27, 24, 20);
+    border: burlywood;
+    border-radius: 20px;
+}
