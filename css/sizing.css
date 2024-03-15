@@ -1,9 +1,9 @@
 @media(max-width:900px){
     html{
-       
+        background-color: rgb(14, 13, 13);
     }
     body{
-        background-color: rgb(14, 13, 13);
+        
         color: rgb(154, 190, 120);
     }
 }
