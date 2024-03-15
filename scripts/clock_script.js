@@ -18,4 +18,8 @@ function updateClock()  {
       minutes = minutes < 10 ? "0" + minutes : minutes;
       seconds = seconds < 10 ? "0" + seconds : seconds;
       date = date < 10 ? "0" + date : date;
+
+      var period = hours < 12 ? "AM" : "PM";
+      time.innerHTML = hours + ":" + minutes + ":" + seconds + " " + period;
+      dateTime.innerHTML = dayNames[day] + ", " + monthNames[month] + " " + date + ", " + year; 
 }
