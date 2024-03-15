@@ -2,7 +2,7 @@ var time = document.querySelector(".time");
 var dateTime = document.querySelector(".date-time");
 
 function updateClock()  {
-    
+    /* Gets the current time and date */
       var now = new Date();
       var hours = now.getHours();
       var minutes = now.getMinutes();
