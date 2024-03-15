@@ -23,3 +23,6 @@ function updateClock()  {
       time.innerHTML = hours + ":" + minutes + ":" + seconds + " " + period;
       dateTime.innerHTML = dayNames[day] + ", " + monthNames[month] + " " + date + ", " + year; 
 }
+
+updateClock();
+    setInterval(updateClock, 1000);
