@@ -11,5 +11,6 @@ function updateClock()  {
       var month = now.getMonth();
       var year = now.getFullYear();
 
-      
+      var dayNames = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+      var monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 }
