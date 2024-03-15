@@ -1,0 +1,28 @@
+body {
+    
+}
+.timeclock{
+  text-align: center;
+}
+.clock {
+  width: 30%;
+  justify-content: center;
+  align-items: center;
+}
+
+.time {
+  font-size: 40px;
+  font-weight: bold;
+  
+}
+
+.date-time {
+
+
+}
+
+@media screen and (max-width: 768px) {
+  .time {
+    font-size: 15px;
+  }
+}
