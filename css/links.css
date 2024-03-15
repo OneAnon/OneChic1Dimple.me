@@ -1,0 +1,35 @@
+a{
+    color:burlywood;
+    text-decoration: none;
+}
+
+a:hover{
+    color:whitesmoke;
+    font-weight: bold;
+}
+
+a:active{
+    color:green;
+}
+
+a:visited{
+    color: #663f47;
+    font-style: italic;
+}
+
+a:visited:hover{
+    color:gold;
+}
+
+a:visited:active{
+    color:blue;
+}
+
+a:visited:visited{
+    color:rgb(117, 85, 42);
+}
+
+a:visited:visited:hover{
+    color:red;
+}
+
