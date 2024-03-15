@@ -1,0 +1,55 @@
+.main-header-bar{
+    background-color: rgb(37, 30, 20);
+    color:white;
+    border-radius: 12px;
+}
+
+
+.footer-bar{
+    display:flex;
+    background-color: rgb(37, 30, 20);
+    grid-area: ft;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border-radius: 12px ;
+}
+
+footer{
+    display:flex;
+    justify-content: center;
+    padding: 2px;
+    color: white;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+h1:hover{
+    font-size: 215%;
+    transition: .5s ease;
+    
+}
+
+.nav-bar-list{
+    list-style: none;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.nav-bar-list li a{
+    display: block;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+.nav-bar-list li a:hover{
+    background-color: #555;
+}
