@@ -21,8 +21,8 @@ body {
 
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
   .time {
-    font-size: 15px;
+    font-size: 115%;
   }
 }
