@@ -4,4 +4,9 @@
 
 /* contents undecided: TBD */
 
-/* @import url(https://fonts.googleapis.com/css?family=Monda; <--example*/
+/* @import url(https://fonts.googleapis.com/css?family=Monda; <--example
+
+ body{
+    font-family: 'Monda', monospace;
+}
+*/
