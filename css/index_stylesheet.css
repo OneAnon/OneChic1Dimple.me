@@ -52,7 +52,7 @@ h1{
     border: burlywood;
     border-radius: 20px;
     animation: wiggle 2s linear infinite;
-    border-bottom: 2px solid rgb(78, 68, 54);
+    border-bottom: 2px solid rgb(0, 0, 0);
 }
 
 @keyframes wiggle {
