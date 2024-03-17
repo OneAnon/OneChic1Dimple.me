@@ -1,6 +1,7 @@
 @import url(sizing.css);
 @import url(header_footer.css);
 @import url(links.css);
+@import url(fonts_stylesheet.css);
 @media (min-width:901px){
     .cool-box-container{
         display: grid;
