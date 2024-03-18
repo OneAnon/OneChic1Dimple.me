@@ -46,6 +46,10 @@ body{
    /* font-family: 'Lucida Console', sans-serif; */
 }
 
+section{
+    color:#f7ddc9; /* temporarily added font color matching nav bar (subject to change)*/
+}
+
 header nav div h3{
     color:aqua; /* color is for personal clarification */
     display: flex;
