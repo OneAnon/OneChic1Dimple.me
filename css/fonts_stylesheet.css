@@ -11,8 +11,9 @@
 }
 */
 
-@import url(https://fonts.googleapis.com/css?family=Bungee+Hairline&display=swap);
+/* @import url(https://fonts.googleapis.com/css?family=Bungee+Hairline&display=swap); <- previous font*/ 
+@import url(https://fonts.googleapis.com/css2?family=Truculenta:opsz,wdth,wght@12..72,112.5,600&display=swap);
 
 body{
-    font-family: 'Bungee Hairline', sans-serif;
+    font-family: 'Truculenta', sans-serif;
 }
