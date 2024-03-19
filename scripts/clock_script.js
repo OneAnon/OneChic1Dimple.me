@@ -20,10 +20,10 @@ function updateClock()  {
       seconds = seconds < 10 ? "0" + seconds : seconds;
       date = date < 10 ? "0" + date : date;
     /* displays the date and time */
-      var period = hours > 12 ? "AM" : "PM"; // changed
+      var period = hours < 12 ? "AM" : "PM"; // changed
       time.innerHTML = hours + ":" + minutes + ":" + seconds + " " + period;
       dateTime.innerHTML = dayNames[day] + ", " + monthNames[month] + " " + date + ", " + year; 
 }
 
 updateClock();
-    setInterval(updateClock, 1000);
+    setInterval(updateClock, 1000); 
