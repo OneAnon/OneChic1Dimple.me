@@ -55,6 +55,12 @@ h1{
     border-bottom: 2px solid rgb(0, 0, 0);
 }
 
+.hotwire{
+    text-align: center;
+    justify-content: center;
+    color: red;
+}
+
 @keyframes wiggle {
     0%, 7% {
         transform: rotateZ(0);
