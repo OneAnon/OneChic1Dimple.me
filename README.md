@@ -10,4 +10,4 @@ Thank you for stopping in! Drop a follow on my socials if you use any of this co
 OneChic1Dimple
 
 
-P.S. Its important to always give credit where credit is due! Don't take credit for the work of others. Students! You can use this as a guide if it helps, but DON'T plagarize!
+P.S. Its important to always give credit where credit is due! Don't take credit for the work of others. Students! You can use this as a guide if it helps, but DON'T plagiarize!
