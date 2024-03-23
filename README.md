@@ -5,6 +5,6 @@ Here, I'd like to explore, and experiment with things sometimes trivial and extr
 
 Occasionally there may be partner links within.
 
-Thank you for stopping in! Drop a follow on my socials if you use any of this code!
+Thank you for stopping in! Drop a follow on my socials if you use any of this code! Thanks
 
-
+OneChic1Dimple
