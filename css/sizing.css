@@ -10,7 +10,7 @@
 
 @media (min-width:901px){
     html{
-        background-image: linear-gradient(180deg, #783c11, #120903);
+        background-image: linear-gradient(180deg, #783c11, #15adde,#783c11,#120903);
         min-height: 100%;
     }
     body{
