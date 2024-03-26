@@ -42,9 +42,9 @@
     }
 }
 
-body{
-   /* font-family: 'Lucida Console', sans-serif; */
-}
+/*body{
+   font-family: 'Lucida Console', sans-serif; 
+} */
 
 section{
     color:#f7ddc9; /* temporarily added font color matching nav bar (subject to change)*/
