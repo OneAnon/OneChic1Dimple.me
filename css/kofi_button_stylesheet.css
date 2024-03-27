@@ -24,7 +24,7 @@
   @media only screen and (max-device-width:750px) {
     .floatingchat-donate-button {
       height:46px;
-      font-size:16px;
+      font-size:14px;
       justify-content:space-evenly;
       padding:0 18px
     }
