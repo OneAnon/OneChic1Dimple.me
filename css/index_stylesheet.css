@@ -4,6 +4,10 @@
 @import url(clock_stylesheet.css);
 @import url(fonts_stylesheet.css);
 
+html{
+  background-image: url("../assets/wood_leaf_bg.jpg");
+}
+
 div{
     border:2px solid whit; /* for  easy editing purposes, disregard */
 }
