@@ -127,6 +127,7 @@ h1 a{
 .blog-list-image img{
     height: 225px;
     width: 400px;
+    object-fit: contain;
     border-radius: 55px 10px;
 }
 
