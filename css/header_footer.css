@@ -31,7 +31,7 @@ h1{
 
 h1:hover{
     font-size: 215%;
-    transition: .5s ease;
+    transition: .5s ease-in-out;
     
 }
 
