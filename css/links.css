@@ -33,3 +33,21 @@ a:visited:visited:hover{
     color:rgb(141, 209, 156);
 }
 
+#dimple-navbar a{
+    transition: color .5s ease-in-out, box-shadow .5s ease-in-out;
+}
+
+#dimple-navbar a:hover{
+    color: #120903;
+    font-weight: bold;
+    box-shadow: inset 5em 0 0 0 #f7ddc9;
+    transition: color .5s ease-in-out, box-shadow .5s ease-in-out;
+}
+
+#dimple-navbar a:visited:hover{
+    color: #7c4633;
+}
+
+#dimple-navbar a:visited:visited:hover{
+    color: #2e8b56;
+}
