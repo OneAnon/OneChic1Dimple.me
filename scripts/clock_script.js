@@ -35,6 +35,11 @@ function updateClock() {
   var now = new Date();
   var date = now.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
   var hours = now.getHours().toString();
+  if (hours ==="00") {
+    hours = "00";
+  } else if (hours > 12) {
+    hours = (hours % 12).toString();
+  }
   var minutes = now.getMinutes().toString();
   var seconds = now.getSeconds().toString();
   document.getElementById("hours").textContent = hours;
