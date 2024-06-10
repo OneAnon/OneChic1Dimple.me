@@ -42,3 +42,4 @@ function updateClock() {
   document.getElementById("seconds").textContent = seconds;
   document.getElementById("date").textContent = date;
 }
+setInterval(updateClock, 1000);
