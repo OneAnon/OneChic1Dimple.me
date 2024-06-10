@@ -8,8 +8,8 @@
 
 .time {
   display: grid;
-  grid-template-columns: 1.5em 1.5em 1.5em;
-  column-gap: 2px;
+  grid-template-columns: 1.5em 1.5em 1.5em 1.5em 1.5em;
+  column-gap: 1px;
   justify-content: center;
   font-size: 1.75em;
   font-weight: bold;
