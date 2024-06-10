@@ -2,12 +2,12 @@
   text-align: center;
 }
 .clock div{
-
+  width: 10%;
   justify-content: center;
   align-items: center;
 }
 
-#time {
+.time {
   display: flex;
   justify-content: center;  
   font-size: 40px;
