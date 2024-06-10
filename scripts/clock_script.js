@@ -34,9 +34,9 @@ updateClock();
 function updateClock() {
   var now = new Date();
   var date = now.toLocaleDateString();
-  var hours = now.getHours().toString().padStart(2,"0");
-  var minutes = now.getMinutes().toString().padStart(2,"0");
-  var seconds = now.getSeconds().toString().padStart(2,"0");
+  var hours = now.getHours().toString();
+  var minutes = now.getMinutes().toString();
+  var seconds = now.getSeconds().toString();
   document.getElementById("hours").textContent = hours;
   document.getElementById("minutes").textContent = minutes;
   document.getElementById("seconds").textContent = seconds;
