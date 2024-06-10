@@ -31,3 +31,13 @@ updateClock();
     setInterval(updateClock, 1000); 
 */
 
+function updateClock() {
+  var now = new Date();
+  var date = now.toLocaleDateString();
+  var hours = now.getHours().toString().padStart(2,"0");
+  var minutes = now.getMinutes().toString().padStart(2,"0");
+  document.getElementById("hours").textContent = hours;
+  document.getElementById("minutes").textContent = minutes;
+  document.getElementById("seconds").textContent = seconds;
+  document.getElementById("date").textContent = date;
+}

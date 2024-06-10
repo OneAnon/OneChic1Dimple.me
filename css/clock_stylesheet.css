@@ -1,10 +1,9 @@
-.timeclock{
-  text-align: center;
-}
+
 .clock {
   width: 30%;
   justify-content: center;
   align-items: center;
+  text-align: center;
 }
 
 .time {
