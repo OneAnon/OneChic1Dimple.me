@@ -1,7 +1,7 @@
 .clock{
   text-align: center;
 }
-.clock span{
+.clock div{
   width: 30%;
   justify-content: center;
   align-items: center;
