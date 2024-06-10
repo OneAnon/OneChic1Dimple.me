@@ -1,9 +1,10 @@
-
-.clock {
+.clock{
+  text-align: center;
+}
+.clock span{
   width: 30%;
   justify-content: center;
   align-items: center;
-  text-align: center;
 }
 
 .time {
