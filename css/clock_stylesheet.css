@@ -1,23 +1,22 @@
 .clock{
   text-align: center;
 }
-.clock div{
-  width: 10%;
+.clock span{
   justify-content: center;
   align-items: center;
 }
 
 .time {
   display: grid;
-  grid-template-columns: 3.5em 3.5em 3.5em;
-  column-gap: 10px;
+  grid-template-columns: 1.5em 1.5em 1.5em;
+  column-gap: 2px;
   justify-content: center;
-  font-size: 2.5em;
+  font-size: 1.75em;
   font-weight: bold;
 }
 
-.time div{
-  max-width: 1.5em;
+.time span{
+  max-width: 3em;
 }
 
 #date{
